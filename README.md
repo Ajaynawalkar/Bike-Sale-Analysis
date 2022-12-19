@@ -2,10 +2,10 @@
 - Exploratory Data Analysis on Bike Sale and Plot Visualization.
 - Data Cleaning Process and Dashboard Creation in Jupyter Notebook and PowerBi ,In this project, we'll be analyzing a dataset and then communicate findings about it. we'll be using Python Language to Clean data and form the tables.
 ## Python Libraries used in project:
-  - NUMPY
-  - PANDAS
-  - MATPLOTLIB
-  - SEABORN
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
 ## CONTENT:
 - 1)Introduction to Data : The dataset contains 1,13,036 records distrbuted in 18 columns.
 - 2)Null Value and Reduction : There is 87054 Null Values in the "Frame Size" features, So to treating the Null Values we drop this Feature.
